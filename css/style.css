@@ -1,0 +1,23 @@
+h2{
+  color: #D4A190;
+  font-size: 40px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+p{
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.links{
+  padding: 10px;
+}
+
+li{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+li p {
+  padding-top: 10px;
+}
