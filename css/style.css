@@ -1,23 +1,32 @@
-h2{
-  color: #D4A190;
-  font-size: 40px;
-  font-style: italic;
-  font-family: sans-serif;
+h2 {
+    color: #D4A190;
+    font-size: 40px;
+    font-style: italic;
+    font-family: sans-serif;
 }
-p{
-  font-size: 16px;
-  font-family: sans-serif;
+img.floatRight {
+    float: right;
+    margin: 10px;
 }
-.links{
-  padding: 10px;
+.my-class {
+    border: 10px solid #4D2C21;
+    padding: 10px;
+    margin: 4px;
+    height: 300px;
+    width: 200px;
 }
-
-li{
-  padding: 20px;
-  font-size: 20px;
-  font-weight: bold;
+p {
+    font-size: 16px;
+    font-family: sans-serif;
 }
-
+.links {
+    padding: 10px;
+}
+li {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
 li p {
-  padding-top: 10px;
+    padding-top: 10px;
 }
