@@ -1,0 +1,9 @@
+.my-class {
+  border: 2px solid green;
+  padding: 5px;
+  margin: 10px;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
