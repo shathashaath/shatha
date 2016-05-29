@@ -8,6 +8,12 @@ img.floatRight {
     float: right;
     margin: 10px;
 }
+.navbar-nav {
+    text-align: center;
+    > li {
+        display: inline-block;
+    }
+}
 .my-class {
     border: 10px solid #4D2C21;
     padding: 10px;
