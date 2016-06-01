@@ -1,16 +1,4 @@
-author name
-project or program name
-description of program
-program setup instructions
-link to site on GitHub Pages
-copyright and license information
-
-
-
-
-
-
-
+Here is my web-page http://shathashaath.github.io/shatha/
 # My personal webpage
 #### HTML,CSS  ,05.27.2016
 #### By **Shatha Shaath**
